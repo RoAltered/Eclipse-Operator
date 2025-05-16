@@ -1,12 +1,9 @@
 {
-  "[# Eclipse-Operator]",
-
+  "PROJECT": "Eclipse-Operator",
   "VERSION": "0",
-  
   "RELEASEDATE": "2025-05-15",
-  
-  "CHANGELOG": "Lunarith had just began development.",
-
-  "SYSTEM OPERATOR: [ROALTERED] (ROBLOX + DC)"
-  
+   "LATESTRELEASE": "2025-05-15",
+  "CHANGELOG": "Lunarith has just begun development.",
+  "SYSTEMOPERATOR": "ROALTERED",
+  "PLATFORMS": ["Roblox", "ETC"]
 }
